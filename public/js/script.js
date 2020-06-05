@@ -3,6 +3,7 @@ var x = 0;
 document.getElementById('output-area').innerHTML = x;
 
 function button1() {
+  
   document.getElementById('output-area').innerHTML = ++x;
 }
 

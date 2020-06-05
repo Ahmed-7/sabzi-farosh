@@ -42,15 +42,15 @@ letter-spacing: 5px;
 
 }
 .service-1:hover{
-  background-color:#28A745;
+  background-color:#135796;
   color: #ffffffe5;
 }
 .service-2:hover{
-    background-color:#28A745;
+    background-color:#135796;
     color: #ffffffe5;
   }
   .service-3:hover{
-    background-color:#28A745;
+    background-color:#135796;
     color: #ffffffe5;
   }
 .card{
@@ -74,5 +74,15 @@ letter-spacing: 5px;
   .img-me{
       width: 300px;
   }
+  .portf{
+    margin-left: 200px;
+}
 }
 
+@media (min-width: 481px) and (max-width:768px) { 
+
+.web{
+    margin-bottom: 100px;
+}
+
+}
